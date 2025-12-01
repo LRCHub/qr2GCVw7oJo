@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "無線LANばり便利",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-01T05:10:50.538271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無線LANばり便利",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": true,
+      "path": "select/01_無線LANばり便利_Yabai_T-Shirts_Yasan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "無線LANばり便利",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/02_無線LANばり便利_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無線LANばり便利",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_無線LANばり便利_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "無線LANばり便利",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_無線LANばり便利_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "無線LANばり便利",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_無線LANばり便利_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
